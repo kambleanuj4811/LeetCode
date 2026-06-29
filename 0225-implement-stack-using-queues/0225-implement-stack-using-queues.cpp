@@ -1,24 +1,27 @@
 class MyStack {
-    queue<int>q;
+private:
+    queue<int> q;
+
 public:
     MyStack() {
-
+        
     }
     
     void push(int x) {
         q.push(x);
-        int s=q.size()-1;
-        for(int i=0 ;i<s;i++){
+
+        int n = q.size();
+
+        for (int i = 0; i < n - 1; i++) {
             q.push(q.front());
             q.pop();
         }
     }
     
     int pop() {
-       int val = q.front();
-       q.pop();
-       return val;
-        
+        int val = q.front();
+        q.pop();
+        return val;
     }
     
     int top() {
@@ -27,9 +30,17 @@ public:
     
     bool empty() {
         return q.empty();
-        
     }
 };
+
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack* obj = new MyStack();
+ * obj->push(x);
+ * int param_2 = obj->pop();
+ * int param_3 = obj->top();
+ * bool param_4 = obj->empty();
+ */
 
 /**
  * Your MyStack object will be instantiated and called as such:
