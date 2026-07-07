@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kambleanuj4811/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/kambleanuj4811/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
