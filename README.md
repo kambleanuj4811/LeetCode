@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kambleanuj4811/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kambleanuj4811/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0485-max-consecutive-ones](https://github.com/kambleanuj4811/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/kambleanuj4811/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kambleanuj4811/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
