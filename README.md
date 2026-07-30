@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kambleanuj4811/LeetCode/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/kambleanuj4811/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/kambleanuj4811/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kambleanuj4811/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kambleanuj4811/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kambleanuj4811/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kambleanuj4811/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kambleanuj4811/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kambleanuj4811/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kambleanuj4811/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kambleanuj4811/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kambleanuj4811/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kambleanuj4811/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
