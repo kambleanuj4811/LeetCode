@@ -10,24 +10,26 @@
  * };
  */
 class Solution {
-public: 
-    void Inorder(TreeNode*root, vector<int>&inorder){
-        if(root==NULL){
-            return ;
-        }
-        Inorder(root->left, inorder);
-        inorder.push_back(root->val);
-        Inorder(root->right, inorder);
-    }
-    int getMinimumDifference(TreeNode* root) {
-        vector<int>inorder;
-        Inorder(root, inorder);
-        int Minn = INT_MAX;
-        for(int i=0 , j=1 ; j<inorder.size(); i++, j++){
-            int currmin = abs(inorder[i]-inorder[j]);
-            Minn = min(Minn, currmin);
-        }
+public:
+    TreeNode* prev = nullptr;
+    int ans = INT_MAX;
 
-        return Minn;
+    void inorder(TreeNode* root) {
+        if (root == nullptr)
+            return;
+
+        inorder(root->left);
+
+        if (prev != nullptr) {
+            ans = min(ans, root->val - prev->val);
+        }
+        prev = root;
+
+        inorder(root->right);
+    }
+
+    int getMinimumDifference(TreeNode* root) {
+        inorder(root);
+        return ans;
     }
 };
