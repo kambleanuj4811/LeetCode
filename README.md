@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kambleanuj4811/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kambleanuj4811/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kambleanuj4811/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kambleanuj4811/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/kambleanuj4811/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kambleanuj4811/LeetCode/tree/master/0242-valid-anagram) |
