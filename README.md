@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kambleanuj4811/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambleanuj4811/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kambleanuj4811/LeetCode/tree/master/0283-move-zeroes) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kambleanuj4811/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kambleanuj4811/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambleanuj4811/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kambleanuj4811/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kambleanuj4811/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambleanuj4811/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/kambleanuj4811/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
