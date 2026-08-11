@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kambleanuj4811/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/kambleanuj4811/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/kambleanuj4811/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kambleanuj4811/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/kambleanuj4811/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/kambleanuj4811/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kambleanuj4811/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/kambleanuj4811/LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/kambleanuj4811/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
