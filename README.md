@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kambleanuj4811/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kambleanuj4811/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/kambleanuj4811/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kambleanuj4811/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kambleanuj4811/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kambleanuj4811/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/kambleanuj4811/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kambleanuj4811/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambleanuj4811/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kambleanuj4811/LeetCode/tree/master/0283-move-zeroes) |
 ## Array
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kambleanuj4811/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/kambleanuj4811/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kambleanuj4811/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kambleanuj4811/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kambleanuj4811/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kambleanuj4811/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kambleanuj4811/LeetCode/tree/master/0242-valid-anagram) |
