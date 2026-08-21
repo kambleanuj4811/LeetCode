@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kambleanuj4811/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kambleanuj4811/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kambleanuj4811/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/kambleanuj4811/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kambleanuj4811/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kambleanuj4811/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kambleanuj4811/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kambleanuj4811/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kambleanuj4811/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kambleanuj4811/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kambleanuj4811/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kambleanuj4811/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kambleanuj4811/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kambleanuj4811/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
