@@ -4,12 +4,12 @@ public:
         vector<string> st;
         string str = "";
 
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == ' ') {
+        for (char ch : s) {
+            if (ch == ' ') {
                 st.push_back(str);
                 str = "";
             } else {
-                str += s[i];
+                str += ch;
             }
         }
         st.push_back(str);
@@ -24,9 +24,11 @@ public:
             char c = pattern[i];
             string word = st[i];
 
+            // Character already mapped to a different word
             if (mp.count(c) && mp[c] != word)
                 return false;
 
+            // Word already mapped to a different character
             if (rev.count(word) && rev[word] != c)
                 return false;
 
