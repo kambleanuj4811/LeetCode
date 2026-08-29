@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kambleanuj4811/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/kambleanuj4811/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/kambleanuj4811/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kambleanuj4811/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kambleanuj4811/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kambleanuj4811/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kambleanuj4811/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kambleanuj4811/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kambleanuj4811/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kambleanuj4811/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kambleanuj4811/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/kambleanuj4811/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/kambleanuj4811/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
