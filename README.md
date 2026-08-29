@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kambleanuj4811/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kambleanuj4811/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0973-k-closest-points-to-origin](https://github.com/kambleanuj4811/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kambleanuj4811/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kambleanuj4811/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kambleanuj4811/LeetCode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kambleanuj4811/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kambleanuj4811/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kambleanuj4811/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kambleanuj4811/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kambleanuj4811/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kambleanuj4811/LeetCode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kambleanuj4811/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kambleanuj4811/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kambleanuj4811/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kambleanuj4811/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kambleanuj4811/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kambleanuj4811/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
