@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kambleanuj4811/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kambleanuj4811/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/kambleanuj4811/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kambleanuj4811/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kambleanuj4811/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kambleanuj4811/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kambleanuj4811/LeetCode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kambleanuj4811/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambleanuj4811/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
