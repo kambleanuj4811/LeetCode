@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kambleanuj4811/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/kambleanuj4811/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kambleanuj4811/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kambleanuj4811/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kambleanuj4811/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kambleanuj4811/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
