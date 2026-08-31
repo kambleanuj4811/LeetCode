@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kambleanuj4811/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/kambleanuj4811/LeetCode/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/kambleanuj4811/LeetCode/tree/master/0397-integer-replacement) |
 ## String
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kambleanuj4811/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kambleanuj4811/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kambleanuj4811/LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/kambleanuj4811/LeetCode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/kambleanuj4811/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kambleanuj4811/LeetCode/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/kambleanuj4811/LeetCode/tree/master/0397-integer-replacement) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kambleanuj4811/LeetCode/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/kambleanuj4811/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
