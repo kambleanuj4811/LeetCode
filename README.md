@@ -488,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/kambleanuj4811/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kambleanuj4811/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kambleanuj4811/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
