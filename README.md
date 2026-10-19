@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/kambleanuj4811/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kambleanuj4811/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/kambleanuj4811/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kambleanuj4811/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kambleanuj4811/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kambleanuj4811/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kambleanuj4811/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kambleanuj4811/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kambleanuj4811/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kambleanuj4811/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kambleanuj4811/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kambleanuj4811/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kambleanuj4811/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kambleanuj4811/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3731-find-missing-elements](https://github.com/kambleanuj4811/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
